@@ -6,5 +6,19 @@
     <description>Verba — autoupdate feed</description>
     <language>en</language>
 
+    <item>
+      <title>Verba 1.0.0.0 — first public build</title>
+      <pubDate>Thu, 11 Jun 2026 18:45:57 +0000</pubDate>
+      <sparkle:version>1.0.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><strong>First public build. Universal (Apple Silicon + Intel).</strong></p><p>Verba turns your speech into text anywhere on your Mac: hold the hotkey, talk, release — the text appears where you were typing. Six interface languages, language-aware cleanup with native filler handling, built-in slang packs that hint correct spellings of colloquialisms, tech jargon and brand names to the recognizer. Your own API key, your audio goes straight to the recognition service — no middleman servers.</p>]]></description>
+      <enclosure
+        url="https://github.com/karpovantonme/verba-releases/releases/download/v1.0.0.0/Verba-1.0.0.0.dmg"
+        length="12173814"
+        type="application/octet-stream"
+        sparkle:edSignature="SyPWEeUonn++fWxkJqNZjU5meEpaTFtELSetRvwv/TJM9kdMnoThewdYl6z779gHbbL9y7bJX2Ee0pN5ztNIDA==" />
+    </item>
+
   </channel>
 </rss>
