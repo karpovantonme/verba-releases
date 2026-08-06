@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Verba 1.1.0.0 — reliability, Spaces, accessibility</title>
+      <pubDate>Thu, 06 Aug 2026 15:16:56 +0000</pubDate>
+      <sparkle:version>1.1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><strong>Reliability, Spaces, accessibility.</strong> First update since the debut build.</p><p><strong>Two bugs that lost your words.</strong> Short utterances such as “okay” could be dropped silently, and with a non-empty vocabulary every dictation failed against the provider’s prompt byte limit. Both fixed.</p><p><strong>Text no longer disappears.</strong> When the synthetic paste could not be constructed, nothing was inserted and the clipboard was restored over the transcript a second later. The failure is now visible and the text stays on the clipboard.</p><p><strong>Overlay across Spaces.</strong> The pill no longer stays stranded on the desktop where dictation started, follows Space switches and display changes, and centres on the screen rather than the free area.</p><p><strong>Accessibility.</strong> Cleanup-level indicators and the Vibe label are now readable — contrast was below the standard, in places threefold. Reduce Motion stops every overlay animation.</p><p><strong>Verba is Verba now.</strong> No longer advertises the Russian brand’s domain and Telegram, draws that brand’s mark in its own window, files logs under the other app’s subsystem, or reports itself in Russian to system power assertions. Error messages are localized. If both apps run at once, Verba tells you about the Fn conflict instead of appearing broken.</p>]]></description>
+      <enclosure
+        url="https://github.com/karpovantonme/verba-releases/releases/download/v1.1.0.0/Verba-1.1.0.0.dmg"
+        length="12046116"
+        type="application/octet-stream"
+        sparkle:edSignature="vojp6bZm7wg4avEa2JmUoulYbnLXjiCR/6+LALyk/sVtug9vNv9ksdolbrHmyXtEDIHHBBPezBfcumHg9FgwBA==" />
+    </item>
+
+    <item>
       <title>Verba 1.0.0.0 — first public build</title>
       <pubDate>Thu, 11 Jun 2026 18:45:57 +0000</pubDate>
       <sparkle:version>1.0.0.0</sparkle:version>
