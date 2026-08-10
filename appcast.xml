@@ -7,6 +7,19 @@
     <language>en</language>
 
     <item>
+      <title>Verba 1.1.1.4 — first-run wizard, keychain</title>
+      <pubDate>Mon, 10 Aug 2026 19:11:42 +0000</pubDate>
+      <sparkle:version>1.1.1.4</sparkle:version>
+      <sparkle:shortVersionString>1.1.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><strong>The first-run wizard was impossible to finish in two independent ways.</strong> The Done button never enabled once the dictation history was full, and the test dictation failed with an accessibility error even though accessibility had been granted. The hotkey could also stay dead after Done until you restarted the app.</p><p>The wizard window now opens on the desktop and display you are actually using, and comes back to the front when you return from System Settings.</p><p><strong>API keys moved into the macOS keychain.</strong> The move is automatic and nothing asks for a password or Touch ID.</p><p>Also from the versions in between: a visible banner when the global hotkey fails to install, and overlay animations no longer capped at 30 fps.</p>]]></description>
+      <enclosure
+        url="https://github.com/karpovantonme/verba-releases/releases/download/v1.1.1.4/Verba-1.1.1.4.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="iepWaOEAe9+CDQIcOWOiq/zU9pghjU+lR+K6lE8zCdx13JyYfUMLKeEJCTT2QMh10Z68GTh4E3GIUKbXftGKAw==" length="12164727" />
+    </item>
+
+    <item>
       <title>Verba 1.1.1.0 — history under lock, model picker</title>
       <pubDate>Thu, 06 Aug 2026 19:26:03 +0000</pubDate>
       <sparkle:version>1.1.1.0</sparkle:version>
