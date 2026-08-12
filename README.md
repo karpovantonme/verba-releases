@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/karpovantonme/verba-releases/releases/latest"><b>Download the latest release</b></a><br>
+  <a href="https://github.com/karpovantonme/verba/releases/latest"><b>Download the latest release</b></a><br>
   <sub>macOS 13 and later · Apple Silicon and Intel</sub>
 </p>
 
@@ -35,4 +35,4 @@ Verba has no server infrastructure behind it. Audio and text leave your machine 
 
 `appcast.xml` is the Sparkle feed baked into every build. Updates are signed, and the app checks the signature before installing anything.
 
-The Russian-first sibling of the same app is [Поток](https://github.com/karpovantonme/potok-releases). The small free one is [VerbaLite](https://github.com/karpovantonme/verbalite-releases).
+The Russian-first sibling of the same app is [Поток](https://github.com/karpovantonme/potok). The small free one is [VerbaLite](https://github.com/karpovantonme/verbalite).
